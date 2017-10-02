@@ -19,7 +19,7 @@ test_nice_hello =  hello @?= "Hello World :-)"
 main = defaultMain tests
 
 tests :: [TF.Test]
-tests = [ testGroup "Ex00 Tests" [
+tests = [ testGroup "\nExercise 00 Tests" [
             testCase "Say Hello Nicely [20 marks]" test_nice_hello
           ]
         ]
