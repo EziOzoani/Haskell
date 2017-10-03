@@ -16,13 +16,13 @@ and follow instructions carefully.
 
 If `git` is not installed on your machine, please make it so (via [https://git-scm.com](https://git-scm.com) or elsewhere).
 
-The first time, use a command-limne tool to navigate to where you want to keep your CS3016 coursework and enter:
+The first time, use a command-line tool to navigate to where you want to keep your CS3016 coursework and enter:
 
-`git clone http://gitlab.scss.tcd.ie/butrfeld/CS3016-1617.git`
+`git clone http://gitlab.scss.tcd.ie/butrfeld/CS3016-1718.git`
 
-This should create a folder called `CS3016-1718`. 
+You may need to authenticate using your TCD/SCSS username and SCSS password. This should create a folder called `CS3016-1718`. 
 
-To get future coursework updates, enter `CS3016-1718`
+To get future coursework updates, enter folder `CS3016-1718`
 and issue the command:
 
 `git pull`
