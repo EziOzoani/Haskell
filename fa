@@ -1,0 +1,65 @@
+[33mcommit 45c9237daa44d372255d76219a7f5d91dcfc9800[m
+Author: Ezinwanne Mary-Jane Ozoani <eozoani@scss.tcd.ie>
+Date:   Tue Dec 12 03:28:56 2017 +0000
+
+    ..
+
+[33mcommit 4a3fd6b76fdb4267e585bc77269a8d84c945855e[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Mon Nov 27 11:19:08 2017 +0000
+
+    Exercise Two now setup
+
+[33mcommit df15ad163a22c310bc7fd694b334c6385f090991[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Wed Nov 1 17:28:21 2017 +0000
+
+    remove QuickCheck mentions from Exercise One
+
+[33mcommit 3494d58276609384e88c77fc152ba7496f570288[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Tue Oct 31 12:10:54 2017 +0000
+
+    Readme updated with naming instructions.
+
+[33mcommit 7168fa4c86b8a5804eb43189561fde63a19044d6[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Mon Oct 23 17:31:35 2017 +0100
+
+    Added Exercise One
+
+[33mcommit abfec2f0eff5608525f087a5fed2d4ca0d1c9d70[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Tue Oct 10 10:03:32 2017 +0100
+
+    tweaked cabal file to fix some linker problems
+
+[33mcommit 1089f61269bb7c1a480471629b05cdf0a8c0e3a7[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Tue Oct 3 10:44:32 2017 +0100
+
+    top-level README fixes
+
+[33mcommit 5b90918c7198213cea4bc2c7e709dbe1d00b0167[m
+Author: Andrew Butterfield <andrew.butterfield@scss.tcd.ie>
+Date:   Mon Oct 2 17:34:52 2017 +0100
+
+    diagram added
+
+[33mcommit 24bdaedbac4e8e6772e1323808b0448fb1dd833d[m
+Author: Andrew Butterfield <andrew.butterfield@scss.tcd.ie>
+Date:   Mon Oct 2 17:33:22 2017 +0100
+
+    Exercise Zero ready to go.
+
+[33mcommit e8325279a44bfbf69a24cfb8570da7047d15277f[m
+Author: Andrew Butterfield <Andrew.Butterfield@scss.tcd.ie>
+Date:   Mon Oct 2 15:04:32 2017 +0100
+
+    Exercise Zero loaded
+
+[33mcommit eaf5589e918f6aa4217e6aba6a21531c901619a4[m
+Author: Andrew Butterfield <andrew.butterfield@scss.tcd.ie>
+Date:   Mon Oct 2 13:48:27 2017 +0100
+
+    Add readme.md
