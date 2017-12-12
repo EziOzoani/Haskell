@@ -1,4 +1,4 @@
-{- Ezinwanne Ozoani 15319307 -}
+{- Ezinwanne Ozoani-}
 module Ex02 where
 
 -- Datatypes -------------------------------------------------------------------
